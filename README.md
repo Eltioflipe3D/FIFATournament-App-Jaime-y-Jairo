@@ -1,9 +1,9 @@
-# Torneo FIFA - Gestión de torneos (IES Luis Carrillo de Sotomayor)
+# Torneo FIFA - Gestión de torneos Jaime y Jairo
 
-Aplicación multiplataforma (.NET MAUI) para gestionar un torneo de FIFA en el instituto:
+Aplicación multiplataforma (.NET MAUI) para gestionar torneos en el insti:
 
 - **Gestor (Windows):** inscripción de participantes, validación del número de participantes (potencia de dos), emparejamientos y resultados.
-- **Alumno (Android):** consulta del cuadro del torneo, próximos partidos y clasificación.
+- **Alumno (Android, quizá):** consulta del cuadro del torneo, próximos partidos y clasificación.
 
 ## Estructura del repositorio
 
